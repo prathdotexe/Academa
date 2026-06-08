@@ -1,5 +1,5 @@
 # Academa 🎓
-### LPU Student Statement of Accounts & Fee Analytics Workspace
+### LPU Student Statement of Accounts & Fee Analytics Dashboard
 
 Academa is a highly polished, interactive full-stack student financial workspace specifically designed for students of Lovely Professional University (LPU). It allows users to parse, visualizes, and analyze official PDF "Statement of Accounts" ledgers. Built with a responsive, modern Bento-grid design inspired by high-end financial platforms, Academa translates dense, confusing university transaction histories into clear visual stories.
 
