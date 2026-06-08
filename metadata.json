@@ -1,0 +1,6 @@
+{
+  "name": "Academa",
+  "description": "An elegant LPU-themed bento-grid dashboard that parses Student Statement of Accounts PDFs and extracts structured transactions, fees, scholarships, and academic balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
